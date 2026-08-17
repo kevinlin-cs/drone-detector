@@ -1,0 +1,6 @@
+.pio/
+__pycache__/
+*.pyc
+.venv/
+dronepi-env/
+.DS_Store
